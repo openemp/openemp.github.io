@@ -1,16 +1,16 @@
 ## OpenEMP
 
-contact : contact@openemp.org
+contact: contact@openemp.org
 
 
 ### Members : 
 
-Asma Khelifi : asma@openemp.org
+Asma Khelifi: asma@openemp.org
 
-Zoheir Chino : zoheir@openemp.org
+Zoheir Chino: zoheir@openemp.org
 
-Chaima --- : chaima@openemp.org
+Chaima Benattia: chaima@openemp.org
 
-Oussama --- : oussama@openemp.org
+Oussama Zeghiche: oussama@openemp.org
 
-Yasmina Mekki : yasmina@openemp.org
+Yasmina Mekki: yasmina@openemp.org
