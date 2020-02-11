@@ -7,7 +7,7 @@ contact: contact@openemp.org
 
 Asma Khelifi: asma@openemp.org
 
-Zoheir Chino: zoheir@openemp.org
+Zoheir Chine: zoheir@openemp.org
 
 Chaima Benattia: chaima@openemp.org
 
