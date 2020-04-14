@@ -1,4 +1,4 @@
-## Welcome to OpenEMP
+## Welcome to OpenEMP :)
 
 OpenEMP is an Open source Education Management Platform for Schools, Universities and any type of educational institution. Designed to assist administrators, students, and instructors, to easily manage their respective workflow.
 
