@@ -5,4 +5,5 @@ source "https://rubygems.org"
 # gem "rails"
 gem "jekyll"
 gem 'github-pages', group: :jekyll_plugins
-gem "jekyll-theme-cayman"
+# gem "minimal-mistakes-jekyll"
+gem "bulma-clean-theme"

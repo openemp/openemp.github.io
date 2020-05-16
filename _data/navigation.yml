@@ -1,0 +1,8 @@
+- name: Joins Us
+  link: https://community.openemp.org
+- name: Documentation
+  link: https://docs.openemp.org
+- name: Contact
+  link: /pages/contact
+- name: About
+  link: /pages/about

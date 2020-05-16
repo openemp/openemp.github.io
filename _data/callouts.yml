@@ -1,0 +1,27 @@
+style: is-light
+height: is-medium
+items:
+  - title: Our Community
+    subtitle: Join us
+    icon: fa-comments
+    description: >
+      OpenEMP is where we collaborate to push 
+      education a step forward, and improve the study experience
+    call_to_action_name: Join us here
+    call_to_action_link: https://community.openemp.org
+  - title: Education Management System
+    subtitle: for Everyone
+    icon: fa-university
+    description: >
+      OpenEMP is a system that help you organize the institution
+      data and make sure that the information  
+    call_to_action_name: Know more about our system
+    call_to_action_link: https://docs.openemp.org
+  - title: Our code
+    subtitle: Let's hack
+    icon: fa-download
+    description: >
+      We are open source and we love it!
+      feel free to contribute or give us feedback  
+    call_to_action_name: Our code
+    call_to_action_link: https://github.com/openemp
