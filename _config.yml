@@ -1,7 +1,10 @@
-theme   : "bulma-clean-theme"
-name    : "OpenEMP"
-title   : "OpenEMP"
-favicon : "/favicon.ico"
+remote_theme: "chrisrhymes/bulma-clean-theme"
+name: "OpenEMP"
+title: "OpenEMP"
+favicon: "/favicon.ico"
 
-# defaults:
-#   show_sidebar: true
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - github-pages
