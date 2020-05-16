@@ -1,3 +1,7 @@
-theme: jekyll-theme-cayman
-title: OpenEMP
-description: Open source Education Management Platform
+theme   : "bulma-clean-theme"
+name    : "OpenEMP"
+title   : "OpenEMP"
+favicon : "/favicon.ico"
+
+# defaults:
+#   show_sidebar: true
