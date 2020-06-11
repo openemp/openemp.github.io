@@ -2,7 +2,7 @@ style: is-light
 height: is-medium
 items:
   - title: Our Community
-    subtitle: Join us
+    subtitle: Join Our Community
     icon: fa-comments
     description: >
       OpenEMP is where we collaborate to push 
